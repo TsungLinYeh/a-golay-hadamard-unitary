@@ -2,17 +2,20 @@
   <img alt="logo" src="./assets/BinaryGolayCode.png" id="logo">
   <Title />
   <Matlab />
+  <Footer />
 </template>
 
 <script>
 import Title from './components/Title.vue'
 import Matlab from './components/Matlab.vue'
+import Footer from './components/Footer.vue'
 
 export default {
   name: 'App',
   components: {
     Title,
-    Matlab
+    Matlab,
+    Footer
   }
 }
 </script>
