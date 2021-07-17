@@ -46,5 +46,6 @@
   .download:hover {
     box-shadow: inset 7em 0 0 0 black;
     color: white;
+    cursor: pointer;
   }
 </style>
