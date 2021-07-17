@@ -1,5 +1,5 @@
 <template>
-  <img alt="logo" src="./assets/BinaryGolayCode.png">
+  <img alt="logo" src="./assets/BinaryGolayCode.png" id="logo">
   <Title />
   <Matlab />
 </template>
@@ -25,5 +25,9 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+
+#logo {
+  width: 40rem;
 }
 </style>
