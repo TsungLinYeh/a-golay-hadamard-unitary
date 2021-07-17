@@ -6,6 +6,8 @@
         {{item}}
       </option>
     </select>
+    <span>{{selected}}</span>
+    <a :href="'/Matlab/order' + selected + '_.mat'" @click="download">Download</a>
   </div>
 </template>
 
@@ -17,6 +19,7 @@
     data () {
       return {
         List: List,
+        selected: ''
       }
     }
   }
