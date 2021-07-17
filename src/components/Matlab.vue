@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <span>test</span>
+    <a href="/Matlab/test.txt" download>test</a>
   </div>
 </template>
 
