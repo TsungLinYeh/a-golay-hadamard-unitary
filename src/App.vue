@@ -1,15 +1,18 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <Title />
+  <Matlab />
 </template>
 
 <script>
 import Title from './components/Title.vue'
+import Matlab from './components/Matlab.vue'
 
 export default {
   name: 'App',
   components: {
-    Title
+    Title,
+    Matlab
   }
 }
 </script>
