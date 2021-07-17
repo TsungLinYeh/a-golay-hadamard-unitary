@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <img alt="logo" src="./assets/BinaryGolayCode.png">
   <Title />
   <Matlab />
 </template>
