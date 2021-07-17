@@ -1,24 +1,10 @@
-# hadamard
+# Hadamard Unitary Libary
+Sharing exist Hadamard unitary matrix from order 1 to 1000
 
-## Project setup
-```
-npm install
-```
+[Hadamard matrix](https://en.wikipedia.org/wiki/Hadamard_matrix)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Unitary matrix](https://en.wikipedia.org/wiki/Unitary_matrix)
+### File type
+```.mat for matlab```
+### The Libary
+Checkout on [github pages](https://tsunglinyeh.github.io/a-golay-hadamard-unitary/).
