@@ -1,5 +1,5 @@
 <template>
-  <h1>Golay Hadamard Unitary</h1>
+  <h1>Hadamard Unitary Libary</h1>
 </template>
 
 <script>

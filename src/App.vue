@@ -28,6 +28,7 @@ export default {
 }
 
 #logo {
-  width: 40rem;
+  width: 80%;
+  max-width: 40rem;
 }
 </style>
