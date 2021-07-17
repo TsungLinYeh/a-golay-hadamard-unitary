@@ -6,7 +6,7 @@
         {{item}}
       </option>
     </select>
-    <a :href="'/Matlab/order' + selected + '_.mat'" @click="download">
+    <a :href="'./Matlab/order' + selected + '_.mat'" @click="download">
       <button class="download">
         Download
       </button>
