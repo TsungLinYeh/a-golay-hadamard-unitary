@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <span class="filetype">Hadamard Unitary order</span>
+    <span class="filetype">Hadamard Matrix order</span>
     <select v-model="selected" class="list">
       <option v-for="item in List" :value="item" :key="'matlab' + item">
         {{item}}
