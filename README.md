@@ -1,5 +1,5 @@
 # Hadamard Matrix Library
-Hadamard matrix from order 1 to 1000
+Hadamard matrix order 1 to 1000
 
 [Hadamard matrix](https://en.wikipedia.org/wiki/Hadamard_matrix)
 
